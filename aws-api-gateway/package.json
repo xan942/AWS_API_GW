@@ -1,0 +1,10 @@
+{
+  "name": "aws-api-gateway-project",
+  "version": "1.0.0",
+  "description": "AWS API Gateway with Lambda",
+  "scripts": {
+    "deploy": "./scripts/deploy.sh",
+    "destroy": "./scripts/destroy.sh",
+    "test": "cd tests/integration && python api_test.py"
+  }
+}

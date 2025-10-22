@@ -1,0 +1,9 @@
+{
+  "name": "hello-lambda",
+  "version": "1.0.0",
+  "description": "Hello Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
