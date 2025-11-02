@@ -9,7 +9,7 @@ variable "aws_region" {
 variable "project_name" {
   description = "Project name"
   type        = string
-  default     = "my-api"
+  default     = "my-xAPI"
 }
 
 variable "environment" {
